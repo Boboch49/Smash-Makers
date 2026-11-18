@@ -3,6 +3,7 @@
 **Projet :** Smash-Makers V15  
 **Créateur, concepteur et développeur :** **Cédric Boboch**  
 **Compte GitHub :** [Boboch49](https://github.com/Boboch49)  
+**Groupe Facebook :** [Communauté Smash-Makers](https://www.facebook.com/groups/1484894498495619)  
 **Date de la présentation V15 :** 18 novembre 2026
 
 ## Présentation
