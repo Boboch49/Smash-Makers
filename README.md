@@ -61,8 +61,6 @@ Les trois univers disposent d'animations matricielles distinctes dans la V15. Le
 
 ![Animation RD17](media/animations/04_mecanique_rd17.gif)
 
-![Ensemble mécanique RD17](media/images/rd17_ensemble.png)
-
 ![Cadre RD17](media/images/rd17_cadre.png)
 
 [Regarder la rotation mécanique RD17 — vidéo Web (muette)](media/videos/Smash_Makers_RD17_Cadre_360_web.mp4)
