@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1280" viewBox="0 0 1600 1280">
+<rect width="1600" height="1280" fill="#f0f5fa"/>
+<text x="800" y="48" text-anchor="middle" font-family="Arial,sans-serif" font-size="34" fill="#19374c">SMASH MAKERS · EXP1 V9 R5 CMS</text>
+<text x="800" y="87" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" fill="#19374c">Schéma fonctionnel de câblage · CMS et connectique traversante</text>
+<rect x="30" y="115" width="755" height="390" rx="12" fill="#e5eff4" stroke="#adc2cd" stroke-width="2"/>
+<text x="407.5" y="317.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#19374c"></text>
+<rect x="815" y="115" width="755" height="390" rx="12" fill="#e5eff4" stroke="#adc2cd" stroke-width="2"/>
+<text x="1192.5" y="317.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#19374c"></text>
+<text x="405" y="155" text-anchor="middle" font-family="Arial,sans-serif" font-size="27" fill="#19374c">5 V depuis la SKR</text>
+<text x="1190" y="155" text-anchor="middle" font-family="Arial,sans-serif" font-size="27" fill="#19374c">5 V externe pour les encodeurs</text>
+<rect x="65" y="195" width="150" height="75" rx="12" fill="white" stroke="#adc2cd" stroke-width="2"/>
+<text x="140.0" y="232.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#19374c">J1-10</text>
+<text x="140.0" y="259.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#19374c">5 V EXP1</text>
+<line x1="215" y1="232" x2="250" y2="232" stroke="#3d6d7a" stroke-width="3"/>
+<rect x="250" y="195" width="155" height="75" rx="12" fill="white" stroke="#adc2cd" stroke-width="2"/>
+<text x="327.5" y="232.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#19374c">D2 SS14</text>
+<text x="327.5" y="259.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#19374c">A → K</text>
+<line x1="405" y1="232" x2="735" y2="232" stroke="#3d6d7a" stroke-width="3"/>
+<text x="570" y="212" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" fill="#19374c">5V EXP1 protégé</text>
+<circle cx="450" cy="232" r="5" fill="#3d6d7a"/>
+<line x1="450" y1="232" x2="450" y2="290" stroke="#3d6d7a" stroke-width="3"/>
+<rect x="355" y="290" width="190" height="65" rx="12" fill="white" stroke="#adc2cd" stroke-width="2"/>
+<text x="450.0" y="329.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#19374c">R17 · 1 kΩ</text>
+<line x1="450" y1="355" x2="450" y2="380" stroke="#3d6d7a" stroke-width="3"/>
+<rect x="370" y="380" width="160" height="65" rx="12" fill="#dff7e8" stroke="#adc2cd" stroke-width="2"/>
+<text x="450.0" y="412.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#19374c">D1 LED verte</text>
+<text x="450.0" y="439.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#19374c">K vers GND</text>
+<line x1="450" y1="445" x2="450" y2="475" stroke="#3d6d7a" stroke-width="3"/>
+<text x="450" y="495" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#19374c">GND</text>
+<circle cx="660" cy="232" r="5" fill="#3d6d7a"/>
+<line x1="660" y1="232" x2="660" y2="300" stroke="#3d6d7a" stroke-width="3"/>
+<rect x="565" y="300" width="190" height="85" rx="12" fill="white" stroke="#adc2cd" stroke-width="2"/>
+<text x="660.0" y="342.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#19374c">C2 10 µF X7R</text>
+<text x="660.0" y="369.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#19374c">+ C3 100 nF</text>
+<line x1="660" y1="385" x2="660" y2="445" stroke="#3d6d7a" stroke-width="3"/>
+<text x="660" y="475" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#19374c">GND</text>
+<text x="150" y="330" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#19374c">R16 → J8-10</text>
+<text x="150" y="362" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#19374c">Option non montée</text>
+<text x="150" y="398" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#19374c">Sortie après D2</text>
+<rect x="850" y="195" width="160" height="75" rx="12" fill="white" stroke="#adc2cd" stroke-width="2"/>
+<text x="930.0" y="232.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#19374c">J7-3</text>
+<text x="930.0" y="259.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#19374c">5 V ENC IN</text>
+<line x1="1010" y1="232" x2="1040" y2="232" stroke="#3d6d7a" stroke-width="3"/>
+<rect x="1040" y="195" width="160" height="75" rx="12" fill="white" stroke="#adc2cd" stroke-width="2"/>
+<text x="1120.0" y="232.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#19374c">D3 SS14</text>
+<text x="1120.0" y="259.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#19374c">A → K</text>
+<line x1="1200" y1="232" x2="1520" y2="232" stroke="#3d6d7a" stroke-width="3"/>
+<text x="1350" y="212" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" fill="#19374c">VENC protégé</text>
+<circle cx="1250" cy="232" r="5" fill="#3d6d7a"/>
+<line x1="1250" y1="232" x2="1250" y2="300" stroke="#3d6d7a" stroke-width="3"/>
+<rect x="1150" y="300" width="200" height="85" rx="12" fill="white" stroke="#adc2cd" stroke-width="2"/>
+<text x="1250.0" y="342.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#19374c">C4 10 µF X7R</text>
+<text x="1250.0" y="369.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#19374c">+ C5 100 nF</text>
+<line x1="1250" y1="385" x2="1250" y2="445" stroke="#3d6d7a" stroke-width="3"/>
+<text x="1250" y="475" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#19374c">GND</text>
+<rect x="1390" y="300" width="150" height="85" rx="12" fill="white" stroke="#adc2cd" stroke-width="2"/>
+<text x="1465.0" y="342.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#19374c">J5-4 / J6-4</text>
+<text x="1465.0" y="369.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#19374c">Alim. encodeurs</text>
+<line x1="1470" y1="232" x2="1470" y2="300" stroke="#3d6d7a" stroke-width="3"/>
+<text x="1000" y="415" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#19374c">Bague des diodes = K</text>
+<text x="1000" y="447" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#19374c">Chute directe à vérifier</text>
+<rect x="30" y="535" width="1540" height="390" rx="12" fill="white" stroke="#adc2cd" stroke-width="2"/>
+<text x="800.0" y="737.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#19374c"></text>
+<text x="800" y="575" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" fill="#19374c">Une voie encodeur · même circuit pour A et B des deux encodeurs</text>
+<rect x="70" y="670" width="240" height="80" rx="12" fill="white" stroke="#adc2cd" stroke-width="2"/>
+<text x="190.0" y="710.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#19374c">Sortie NPN</text>
+<text x="190.0" y="737.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#19374c">Collecteur ouvert</text>
+<line x1="310" y1="710" x2="360" y2="710" stroke="#3d6d7a" stroke-width="3"/>
+<rect x="360" y="670" width="195" height="80" rx="12" fill="white" stroke="#adc2cd" stroke-width="2"/>
+<text x="457.5" y="710.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#19374c">330 Ω</text>
+<text x="457.5" y="737.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#19374c">R18 à R21</text>
+<line x1="555" y1="710" x2="1000" y2="710" stroke="#3d6d7a" stroke-width="3"/>
+<rect x="1000" y="670" width="235" height="80" rx="12" fill="white" stroke="#adc2cd" stroke-width="2"/>
+<text x="1117.5" y="710.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#19374c">EXP1 → GPIO SKR</text>
+<text x="1117.5" y="737.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#19374c">Signal logique 3,3 V</text>
+<circle cx="750" cy="710" r="5" fill="#3d6d7a"/>
+<line x1="750" y1="710" x2="750" y2="665" stroke="#3d6d7a" stroke-width="3"/>
+<rect x="650" y="600" width="200" height="65" rx="12" fill="white" stroke="#adc2cd" stroke-width="2"/>
+<text x="750.0" y="632.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#19374c">4,7 kΩ</text>
+<text x="750.0" y="659.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#19374c">R3 à R6</text>
+<line x1="750" y1="600" x2="750" y2="590" stroke="#3d6d7a" stroke-width="3"/>
+<text x="1000" y="620" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#19374c">vers 3V3 EXT (J7-1)</text>
+<line x1="750" y1="710" x2="750" y2="800" stroke="#3d6d7a" stroke-width="3"/>
+<rect x="650" y="800" width="200" height="65" rx="12" fill="white" stroke="#adc2cd" stroke-width="2"/>
+<text x="750.0" y="832.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#19374c">100 pF C0G</text>
+<text x="750.0" y="859.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#19374c">C6 à C9</text>
+<line x1="750" y1="865" x2="750" y2="895" stroke="#3d6d7a" stroke-width="3"/>
+<text x="750" y="917" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" fill="#19374c">GND commun</text>
+<rect x="1280" y="650" width="240" height="145" rx="12" fill="white" stroke="#adc2cd" stroke-width="2"/>
+<text x="1400.0" y="722.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#19374c">J7-1 · 3V3 EXT</text>
+<text x="1400.0" y="749.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#19374c">C1 100 nF vers GND</text>
+<text x="1400" y="830" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#19374c">Source 3,3 V régulée externe</text>
+<rect x="30" y="950" width="1540" height="220" rx="12" fill="#e5eff4" stroke="#adc2cd" stroke-width="2"/>
+<text x="800.0" y="1067.0" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#19374c"></text>
+<text x="800" y="990" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" fill="#19374c">Correspondances vérifiées</text>
+<text x="800" y="1030" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" fill="#19374c">ENC1 A · J5-1 → R18 / C6 / R3 → EXP1-1 PB5</text>
+<text x="800" y="1064" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" fill="#19374c">ENC1 B · J5-2 → R19 / C7 / R4 → EXP1-2 PA15</text>
+<text x="800" y="1098" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" fill="#19374c">ENC2 A · J6-1 → R20 / C8 / R5 → EXP1-6 PB9</text>
+<text x="800" y="1132" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" fill="#19374c">ENC2 B · J6-2 → R21 / C9 / R6 → EXP1-8 PD6</text>
+<text x="800" y="1212" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" fill="#19374c">UART conservé · PA9 TX → R1 47 Ω → GPIO46 RX · GPIO45 TX → R2 47 Ω → TFT PA3 RX</text>
+<text x="800" y="1250" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#19374c">Les diodes protègent les arrivées 5 V. Les signaux GPIO ne sont pas isolés.</text>
+<path d="M 1020 232 V 175 H 1220 V 232" fill="none" stroke="#d08127" stroke-width="3"/><text x="1120" y="168" font-family="Arial" font-size="17" text-anchor="middle" fill="#965600">JP1 : bypass D3 (option)</text></svg>
