@@ -2,7 +2,7 @@
 
 Le projet **Smash-Makers V15** associe des créations personnelles à des composants et ressources provenant éventuellement de tiers.
 
-- Le modèle mécanique original **MechPong** comporte une notice de licence **GPLv3** dans les archives de travail. Conserver cette notice et vérifier les obligations applicables aux modèles dérivés avant leur redistribution.
+- Certains éléments mécaniques dérivés sont accompagnés d'une notice de licence **GPLv3**. Conserver les attributions et vérifier les obligations applicables, notamment la fourniture des éléments sources correspondants, avant toute redistribution.
 - L'univers **Strange Makers** peut comporter des personnages, références et œuvres protégés. La présence des médias dans une archive privée ne constitue pas une autorisation de diffusion publique.
 - Les musiques et sons utilisés pour les animations doivent être vérifiés individuellement avant publication.
 - Les documents et schémas de fabricants conservent leurs notices de droits et licences.
