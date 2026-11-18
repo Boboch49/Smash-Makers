@@ -1,8 +1,9 @@
 # Droits de partage et précautions
 
-Le projet **Smash-Makers V15** est un projet personnel qui peut employer des composants et des ressources provenant de tiers.
+Le projet **Smash-Makers V15** est conçu et développé par **Cédric Boboch**. Il peut employer des composants et des ressources provenant de tiers.
 
-- Les pièces, plans, documents et animations issus d'une conception mécanique tierce ne sont pas redistribués dans la branche publique actuelle.
+- Cédric Boboch déclare avoir entièrement repris et redessiné la mécanique actuelle. Les fichiers détaillés de cette conception ne sont pas encore remis en ligne.
+- Si certains éléments incorporent encore des œuvres ou plans protégés de tiers, les droits et attributions applicables doivent être conservés avant leur diffusion.
 - Les personnes qui contribuent aux ressources publiées conservent leurs droits et les attributions exigées par leurs licences.
 - L'univers **Strange Makers** peut comporter des personnages, références et œuvres protégés ; l'introduction complète n'est pas publiée.
 - Les musiques et sons doivent être vérifiés individuellement avant toute diffusion.
