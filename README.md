@@ -6,6 +6,8 @@
 
 **Créateur, concepteur et développeur : Cédric Boboch**
 
+**Communauté Facebook :** [Rejoindre le groupe Smash-Makers](https://www.facebook.com/groups/1484894498495619)
+
 Smash-Makers mêle la passion du jeu d'arcade, la mécanique motorisée, l'impression 3D, l'électronique et les animations LED. Deux raquettes mobiles, une balle guidée, des moteurs pas à pas et deux matrices RGB transforment une idée de gamin en machine bien réelle.
 
 > 🔒 **Ce dépôt est une vitrine du projet : aucun code source, aucun firmware, aucun fichier de flashage.**
