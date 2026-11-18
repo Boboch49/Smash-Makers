@@ -2,6 +2,8 @@
 
 **Version : 18 novembre 2026 — prototype en développement.**
 
+**Création, conception et développement : Cédric Boboch.**
+
 Smash-Makers est un projet de table de jeu électromécanique avec trois univers :
 - **Smash Makers** : Pong, 11 points avec deux points d'écart, deux sets gagnants, un ou deux joueurs.
 - **Smash Hockey** : match de trois minutes de temps de jeu actif, buts, parades, affichage du score et animations de personnages.
@@ -9,7 +11,7 @@ Smash-Makers est un projet de table de jeu électromécanique avec trois univers
 
 ## Principe mécanique
 
-Une table de jeu électromécanique animée par des moteurs avec des raquettes mobiles. Le présent dépôt ne diffuse pas les modèles de conception mécanique tiers ni leurs adaptations.
+Une table de jeu électromécanique animée par des moteurs avec des raquettes mobiles. **Cédric Boboch précise avoir repris et redessiné de A à Z la mécanique de la version actuelle.** Les plans techniques correspondants ne sont pas encore remis en ligne.
 
 ## Affichage
 
@@ -28,4 +30,4 @@ Les archives V15 contiennent des rapports de compilation et de tests logiciels p
 
 ## Contenu public
 
-La documentation et les présentations doivent être partagées après contrôle des droits de diffusion. Les plans mécaniques tiers et leurs adaptations ne sont pas inclus. Aucun code source ni firmware n'est destiné à la publication.
+La documentation, les présentations et les plans doivent être partagés après contrôle des droits de diffusion. Les fichiers mécaniques détaillés restent à remettre en ligne. Aucun code source ni firmware n'est destiné à la publication.
