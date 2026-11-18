@@ -32,6 +32,8 @@ Un projet, ce sont des heures à imaginer, dessiner, assembler, tester, parfois 
 
 ### 1. Smash Makers — Pong à sets
 
+![Smash Makers V15](media/animations/01_smash_makers_v15.gif)
+
 Le classique revisité en version mécanique :
 - Parties à **11 points**, avec **2 points d'écart**.
 - Victoire en **2 sets gagnants**.
@@ -39,17 +41,25 @@ Le classique revisité en version mécanique :
 
 ### 2. Smash Hockey — Match chronométré
 
+![Smash Hockey V15](media/animations/02_smash_hockey_v15.gif)
+
 Une ambiance hockey avec **3 minutes de temps de jeu actif**, engagements, tirs, parades, buts, scores et animations des personnages.
 
 ### 3. Strange Makers — Ambiance fantastique
 
 Une introduction audiovisuelle d'environ **53,48 secondes**, une horloge et un événement qui provoque une **inversion des commandes pendant 8 secondes**.
 
-Les trois univers disposent d'animations matricielles distinctes dans la V15.
+Les trois univers disposent d'animations matricielles distinctes dans la V15. **L'animation Strange Makers reste à publier** après vérification des droits liés aux personnages et à la musique.
 
-> 🎞️ Les médias et animations de la V15 seront ajoutés dans `media/` après vérification des droits de diffusion et transfert des fichiers. Les anciennes animations de la V1 ne seront pas substituées à celles de la V15.
+> 🎞️ Les GIF affichés sont des aperçus des ressources V15, pas des captures filmées d'une matrice physique.
 
 ## ⚙️ Mécanique RD17
+
+![Animation RD17](media/animations/04_mecanique_rd17.gif)
+
+![Ensemble mécanique RD17](media/images/rd17_ensemble.png)
+
+![Cadre RD17](media/images/rd17_cadre.png)
 
 La structure comprend notamment un cadre en profilés aluminium, des courroies GT2, des guidages, des chariots, des supports de moteurs et des pièces imprimables.
 
@@ -63,6 +73,8 @@ Le modèle mécanique **RD17** est la référence actuelle du projet. Certains d
 - Communication entre les deux cartes par liaison série **UART**.
 - **Carte fille EXP1 R5 CMS**, avec documentation du choix d'alimentation JP1 et de la correction D2.
 
+![Carte fille EXP1 R5](media/images/carte_fille_exp1_r5.png)
+
 ## 📚 Documentation et partage
 
 - [Histoire du projet](documentation/LE_GRAND_ENFANT_DERRIERE_SMASH_MAKERS.md)
@@ -70,7 +82,7 @@ Le modèle mécanique **RD17** est la référence actuelle du projet. Certains d
 - [Règles de partage et fichiers exclus](documentation/CONTENU_ET_EXCLUSIONS.md)
 - [Droits et précautions](documentation/DROITS_ET_PRECAUTIONS.md)
 
-Les plans STEP/STL, ressources multimédias et fichiers de fabrication électronique seront ajoutés uniquement après vérification de leur contenu et de leurs droits de diffusion.
+Les **aperçus mécaniques et électroniques**, ainsi que les GIF Smash Makers et Smash Hockey, sont en ligne. Les plans STEP/STL complets, vidéos et fichiers de fabrication électronique restent à transférer. Les animations Strange Makers nécessitent une vérification des droits de diffusion.
 
 ## 🔒 Code et firmware privés
 
