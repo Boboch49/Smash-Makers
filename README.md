@@ -84,6 +84,14 @@ Le modèle mécanique **RD17** est la référence actuelle du projet. Certains d
 
 Les **aperçus mécaniques et électroniques**, ainsi que les GIF Smash Makers et Smash Hockey, sont en ligne. Les plans STEP/STL complets, vidéos et fichiers de fabrication électronique restent à transférer. Les animations Strange Makers nécessitent une vérification des droits de diffusion.
 
+## 📐 Fichiers de la carte fille R5
+
+Les premiers fichiers de fabrication sont maintenant en ligne :
+- [Dossier de la carte EXP1 R5](electronique/carte-fille-exp1-r5/)
+- [Archive KiCad/Gerber CMS](electronique/carte-fille-exp1-r5/CARTE_EXP1_R5_KICAD_GERBER_CMS.zip)
+
+Les plans mécaniques STEP/STL volumineux et les autres médias ne sont **pas encore entièrement téléversés**. Aucun firmware ni code source n'est inclus.
+
 ## 🔒 Code et firmware privés
 
 Ne sont **pas** distribués : programmes Arduino/C/C++/Python, scripts, projets de compilation, binaires `.bin`, `.hex`, `.elf`, `.uf2`, images de flash, clés ou fichiers sensibles.
