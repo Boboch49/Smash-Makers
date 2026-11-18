@@ -4,6 +4,8 @@
 
 **Projet V15 — 18 novembre 2026** · *Prototype en développement*
 
+**Créateur, concepteur et développeur : Cédric Boboch**
+
 Smash-Makers mêle la passion du jeu d'arcade, la mécanique motorisée, l'impression 3D, l'électronique et les animations LED. Deux raquettes mobiles, une balle guidée, des moteurs pas à pas et deux matrices RGB transforment une idée de gamin en machine bien réelle.
 
 > 🔒 **Ce dépôt est une vitrine du projet : aucun code source, aucun firmware, aucun fichier de flashage.**
@@ -59,7 +61,7 @@ Les trois univers disposent d'animations matricielles distinctes dans la V15. Le
 
 ## ⚙️ Principe mécanique
 
-Smash-Makers est un jeu d'arcade électromécanique avec des raquettes et une balle pilotées par des moteurs. Les plans détaillés et les illustrations mécaniques de provenance tierce ne sont pas publiés dans cette vitrine.
+Smash-Makers est un jeu d'arcade électromécanique avec des raquettes et une balle pilotées par des moteurs. **Cédric Boboch indique avoir entièrement repris et redessiné la conception mécanique actuelle de A à Z.** Les plans mécaniques détaillés de cette version ne sont pas encore remis en ligne.
 
 ## 🌈 Matrices LED et électronique
 
@@ -77,8 +79,9 @@ Smash-Makers est un jeu d'arcade électromécanique avec des raquettes et une ba
 - [État du projet et matériel](documentation/PRESENTATION_V15.md)
 - [Règles de partage et fichiers exclus](documentation/CONTENU_ET_EXCLUSIONS.md)
 - [Droits et précautions](documentation/DROITS_ET_PRECAUTIONS.md)
+- [Auteur et crédits](AUTEUR_ET_CREDITS.md)
 
-Les **trois GIF de démonstration**, la vidéo de l'horloge, les aperçus électroniques et les fichiers de fabrication de la carte fille R5 sont accessibles ici. Les modèles mécaniques détaillés ne sont pas diffusés dans ce dépôt.
+Les **trois GIF de démonstration**, la vidéo de l'horloge, les aperçus électroniques et les fichiers de fabrication de la carte fille R5 sont accessibles ici. Les plans de la version mécanique actuelle restent à remettre en ligne après vérification des fichiers.
 
 ## 📐 Fichiers de la carte fille R5
 
@@ -86,7 +89,7 @@ Les premiers fichiers de fabrication sont maintenant en ligne :
 - [Dossier de la carte EXP1 R5](electronique/carte-fille-exp1-r5/)
 - [Archive KiCad/Gerber CMS](electronique/carte-fille-exp1-r5/CARTE_EXP1_R5_KICAD_GERBER_CMS.zip)
 
-Les autres médias ne sont pas tous publiés. Les fichiers STEP/STL de provenance tierce et leurs dérivés ne sont pas distribués ici. Aucun firmware ni code source n'est inclus.
+Les autres médias et les fichiers STEP/STL de la version mécanique actuelle ne sont pas tous publiés. Aucun firmware ni code source n'est inclus.
 
 ## 🔒 Code et firmware privés
 
@@ -96,7 +99,9 @@ Les ressources graphiques et sonores ne sont pas des firmwares, mais leur public
 
 ## ⚖️ Crédits et droits
 
-Projet personnel **Smash-Makers**. Tous droits réservés pour les créations originales non placées sous une licence explicite. Les composants, musiques, personnages ou documents tiers conservent leurs licences et droits respectifs. Ce dépôt ne donne pas d'autorisation générale de redistribution d'œuvres tierces.
+**Smash-Makers est le projet de Cédric Boboch.**
+
+**© 2026 Cédric Boboch — Création, conception et développement de Smash-Makers.** Tous droits réservés pour ses créations originales non placées sous une licence explicite. Les composants, musiques, personnages ou documents provenant de tiers conservent leurs licences et droits respectifs. Ce dépôt ne donne pas d'autorisation générale de redistribution d'œuvres tierces.
 
 ---
 
