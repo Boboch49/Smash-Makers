@@ -1,0 +1,73 @@
+MISE A JOUR 12 NOVEMBRE 2026
+AM01/02/03/04/06 : parois internes V3 integrees.
+Lire Documentation/Chariots_parois_internes_V3.md dans le dossier parent.
+Les indications historiques ci-dessous concernent la livraison RD17 initiale.
+
+SMASH MAKERS - RD17 - CORRECTION PORTE-AIMANTS RAQUETTES
+
+EDITION CADRE 860 x 780
+Le STEP principal inclut le cadre autonome et l’AM12 miroir de la raquette A.
+Imprimer trois AM12 standard et un AM12 miroir. Le total reste de 42 pièces.
+Consulter Liste_coupe_cadre_860x780.csv et la notice d’assemblage de 18 pages.
+Le meuble avec les anciens 2040 de 1 100 mm figure dans References.
+Les notes ci-dessous documentent la correction des porte-aimants précédente.
+
+26 references / 42 pieces imprimees. Eprouvette facultative en plus.
+3 references modifiees depuis RD16 : AM18, AM20, AM05 (AM05 en deux exemplaires).
+Le dossier complet remplace la livraison RD16 pour ces pieces et assemblages.
+
+CORRECTION
+Chaque AM18/AM20 garde UN logement d'aimant central, nominal 30 x 10 x 5 mm.
+Les deux poches carrees des anciennes fixations ET leurs anciens percages
+sont combles dans toute leur profondeur. Pas de cavites cachees sous un capot.
+Les deux fixations pour inserts M3 sont decalees de 2 mm vers l'exterieur,
+entraxe 38.7 mm. AM05 est repercee aux memes axes. Utiliser ces pieces ensemble.
+Les bossages d'inserts ne penetrent plus dans le volume du logement d'aimant.
+Deux inserts M3 SHORT par support, 28 M3 au total sur le projet. Aucun M4 requis.
+Pilotes nominaux 4.0 mm, profondeur 4.5 mm, insert 3 mm / diametre externe 4.6.
+Les memes vis CHC M3x10 sont conservees. Autres pieces identiques a RD16.
+
+AIMANTS
+La correction n'ajoute pas trois aimants par support. Un logement central
+est present sous chaque raquette, avec le logement correspondant dans la
+raquette superieure. Verifier dimensions reelles, jeu de pose et polarite.
+Les faces en regard doivent s'attirer. L'entrefer estime de 7.8 mm et les
+magnetisations restent a qualifier avec les aimants reels : aucune validation
+de force, d'acceleration admissible ou de decrochage magnetique n'est declaree.
+Les aimants de raquettes ne sont pas ajoutes arbitrairement a l'assemblage.
+
+IMPRESSION ET MONTAGE
+STL_impression : 26 maillages centres et poses a Z=0, a repeter selon nomenclature.
+STL_STEP : pieces dans le repere CAO d'assemblage. 26 STEP + 26 STL.
+Poser les inserts a chaud avant montage ; tester le pilote sur l'eprouvette.
+Monter les nouveaux AM18/AM20 avec deux nouvelles AM05. Ne pas les melanger
+avec les pieces de ces trois references issues de RD16.
+Les orientations, ponts et surplombs doivent etre controles au tranchage.
+
+COURSES
+Les limites provisoires RD16 sont conservees : centres X 67..633 mm ; centre
+chariot balle Y -70..560 mm dans le REPERE STEP (course Y 630 mm).
+Ce ne sont pas des coordonnees directement transposables dans le firmware.
+Le diagnostic de la livraison precedente a etabli des collisions aux anciennes
+extremites ; ne pas reutiliser les anciennes limites -102..592.6 sans controle.
+Le firmware et l'electronique ne sont pas modifies par cette correction.
+
+NOTICE
+Notice complete actualisee, 17 pages. Raquettes page 11 ; correction detaillee
+et vue du dessous page 17. Les vues de contexte des pieces inchangees sont
+reprises de RD16 ; la vue eclatee des raquettes est regeneree avec ces pieces.
+
+SOURCES
+Depuis la racine du projet : corriger_aimants_rd17.py (base RD16 requise),
+vues_aimants_rd17.py, notice_assemblage_rd17.py, controler_aimants_rd17.py.
+Le script de correction utilise le helper de maillage dans inserts_fdm_rd16.py.
+Les sources de rendu et balayage historiques du projet sont requises.
+
+CONTROLES DE LA CORRECTION
+3 references relues STEP/STL ; 23 references restantes identiques a RD16.
+Anciennes poches verifiees pleines sur toute leur profondeur. Volume central
+30x10x5 restaure, sans bossage d'insert a l'interieur. Anneaux de matiere
+verifies autour des quatre inserts de porte-aimants sur leurs 3 mm de longueur.
+Aucune intersection nominale des volumes ajoutes avec les autres composants.
+752 controles d'enveloppes de la correction sur la plage provisoire : separes.
+Notice 17 pages rendues et verifiees, sans sortie de marge, 17 signets.
