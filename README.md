@@ -57,39 +57,9 @@ Les trois univers disposent d'animations matricielles distinctes dans la V15. Le
 
 > 🎞️ Les GIF affichés sont des aperçus des ressources V15, pas des captures filmées d'une matrice physique.
 
-## ⚙️ Mécanique RD17
+## ⚙️ Principe mécanique
 
-![Animation RD17](media/animations/04_mecanique_rd17.gif)
-
-![Cadre RD17](media/images/rd17_cadre.png)
-
-[Regarder la rotation mécanique RD17 — vidéo Web (muette)](media/videos/Smash_Makers_RD17_Cadre_360_web.mp4)
-
-### Galerie mécanique RD17
-
-*Vues issues du dossier V15. Certaines pièces corrigées le 16 novembre n'ont pas encore été réintégrées dans toutes les illustrations ; les fichiers déclarés validés restent la référence.*
-
-![Ponts vissés RD17](media/images/rd17_ponts_vis_v15.jpg)
-
-![Raquette éclatée](media/images/rd17_raquette_eclatee.jpg)
-
-![Balle éclatée](media/images/rd17_balle_eclatee.jpg)
-
-![Ensemble du cadre 860 × 780](media/images/rd17_cadre_860_ensemble.jpg)
-
-### Fichiers de documentation RD17
-
-- [Notice et historique RD17](mecanique/RD17/LIRE_RD17.txt)
-- [Nomenclature des pièces](mecanique/RD17/Nomenclature_RD17.csv)
-- [Visserie](mecanique/RD17/Visserie_reperee_RD17.csv)
-- [Liste de découpe aluminium](mecanique/RD17/Liste_coupe_cadre_860x780.csv)
-- [Pièces validées au 16 novembre 2026](mecanique/RD17/PIECES_VALIDEES_2026-11-16.md)
-- [Modifications et attributions](mecanique/RD17/ATTRIBUTION.md)
-- [Notice de licence des éléments mécaniques dérivés](mecanique/RD17/LICENCE_ORIGINALE.txt)
-
-La structure comprend notamment un cadre en profilés aluminium, des courroies GT2, des guidages, des chariots, des supports de moteurs et des pièces imprimables.
-
-Le modèle mécanique **RD17** est la référence actuelle du projet. Les documents techniques, attributions et notices de licence sont conservés dans le dossier mécanique.
+Smash-Makers est un jeu d'arcade électromécanique avec des raquettes et une balle pilotées par des moteurs. Les plans détaillés et les illustrations mécaniques de provenance tierce ne sont pas publiés dans cette vitrine.
 
 ## 🌈 Matrices LED et électronique
 
@@ -108,7 +78,7 @@ Le modèle mécanique **RD17** est la référence actuelle du projet. Les docume
 - [Règles de partage et fichiers exclus](documentation/CONTENU_ET_EXCLUSIONS.md)
 - [Droits et précautions](documentation/DROITS_ET_PRECAUTIONS.md)
 
-Les **trois GIF de démonstration**, des vidéos mécaniques et de l'horloge, les aperçus électroniques, les fichiers de fabrication R5 et les documents RD17 sont en ligne. Les gros plans STEP/STL complets et plusieurs longues vidéos restent à transférer après revue des droits, des exigences GPL et des limites de dépôt.
+Les **trois GIF de démonstration**, la vidéo de l'horloge, les aperçus électroniques et les fichiers de fabrication de la carte fille R5 sont accessibles ici. Les modèles mécaniques détaillés ne sont pas diffusés dans ce dépôt.
 
 ## 📐 Fichiers de la carte fille R5
 
@@ -116,7 +86,7 @@ Les premiers fichiers de fabrication sont maintenant en ligne :
 - [Dossier de la carte EXP1 R5](electronique/carte-fille-exp1-r5/)
 - [Archive KiCad/Gerber CMS](electronique/carte-fille-exp1-r5/CARTE_EXP1_R5_KICAD_GERBER_CMS.zip)
 
-Les plans mécaniques STEP/STL volumineux et les autres médias ne sont **pas encore entièrement téléversés**. Aucun firmware ni code source n'est inclus.
+Les autres médias ne sont pas tous publiés. Les fichiers STEP/STL de provenance tierce et leurs dérivés ne sont pas distribués ici. Aucun firmware ni code source n'est inclus.
 
 ## 🔒 Code et firmware privés
 
@@ -126,7 +96,7 @@ Les ressources graphiques et sonores ne sont pas des firmwares, mais leur public
 
 ## ⚖️ Crédits et droits
 
-Projet personnel **Smash-Makers**. Tous droits réservés pour les créations originales non placées sous une licence explicite. Les composants, plans dérivés, musiques, personnages ou documents tiers conservent leurs licences et droits respectifs. Ce dépôt ne donne pas d'autorisation générale de redistribution d'œuvres tierces.
+Projet personnel **Smash-Makers**. Tous droits réservés pour les créations originales non placées sous une licence explicite. Les composants, musiques, personnages ou documents tiers conservent leurs licences et droits respectifs. Ce dépôt ne donne pas d'autorisation générale de redistribution d'œuvres tierces.
 
 ---
 

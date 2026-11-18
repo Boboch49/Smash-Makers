@@ -2,25 +2,21 @@
 
 Ce dépôt public présente le projet **Smash-Makers V15 (18 novembre 2026)**.
 
-## Contenus pouvant être publiés après vérification
+## Contenu du partage
 
-- Présentation et documentation rédigée par le créateur.
-- GIF et vidéos d'animations des trois univers.
-- Animations et présentations de la mécanique RD17.
-- Plans mécaniques STEP/STL et documents de montage dont la redistribution est permise.
-- Schémas électroniques, conception PCB, Gerber et nomenclatures de la carte fille EXP1 R5, après vérification.
-- Images et sons uniquement lorsque les droits de diffusion sont établis.
+- Présentation et histoire de Smash-Makers.
+- Aperçus LED des trois univers de jeu, sans diffusion de l'introduction complète contenant des éléments dont les droits n'ont pas été vérifiés.
+- Présentation et fichiers de fabrication de la carte électronique fille EXP1 R5, sous réserve de leur vérification.
+- Documentation propre au projet.
 
-## Exclusions absolues
+## Contenu exclu
 
-- Programmes et code source : Arduino, C, C++, Python, JavaScript, scripts.
-- Projets et configurations de compilation.
-- **Tous les firmwares**, y compris compilés et flashables : BIN, HEX, ELF, UF2, DFU, ROM, IMG.
-- Clés privées, secrets, identifiants, configurations sensibles et journaux révélant des données privées.
-- Archives ZIP ou autres conteneurs renfermant les éléments exclus.
+- Tout modèle, plan mécanique, document, vidéo ou rendu provenant d'une conception mécanique tierce ou dérivant de celle-ci.
+- Tous les programmes et codes sources : Arduino, C, C++, Python, scripts, etc.
+- Tous les firmwares, y compris compilés : BIN, HEX, ELF, UF2, DFU, ROM et IMG.
+- Clés privées, secrets, identifiants et configurations sensibles.
+- Archives ZIP renfermant des éléments exclus.
 
-## État actuel
+Les sources, licences et mentions de droits des éléments tiers ne doivent **jamais** être retirées d'un travail dérivé qui serait maintenu en diffusion. La solution retenue dans ce dépôt est de ne pas distribuer ces travaux dérivés.
 
-La documentation du projet est publiée. Les ressources multimédias et plans sont préparés dans des archives locales, mais ne doivent pas être présentés comme mis en ligne avant vérification effective.
-
-**Important :** un `.gitignore` n'annule pas la publication d'un fichier déjà envoyé dans l'historique Git. Chaque ajout doit être vérifié avant l'envoi.
+**Important :** la suppression d'un fichier de la branche courante n'efface pas automatiquement ses anciennes versions de l'historique Git.

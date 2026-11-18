@@ -7,9 +7,9 @@ Smash-Makers est un projet de table de jeu électromécanique avec trois univers
 - **Smash Hockey** : match de trois minutes de temps de jeu actif, buts, parades, affichage du score et animations de personnages.
 - **Strange Makers** : introduction audiovisuelle d'environ 53,48 secondes et événement d'horloge inversant temporairement les commandes pendant huit secondes.
 
-## Mécanique
+## Principe mécanique
 
-La mécanique RD17 repose sur une structure en profilés aluminium, des courroies GT2, des guidages, des chariots, des supports de moteurs pas à pas et des pièces conçues pour l'impression 3D.
+Une table de jeu électromécanique animée par des moteurs avec des raquettes mobiles. Le présent dépôt ne diffuse pas les modèles de conception mécanique tiers ni leurs adaptations.
 
 ## Affichage
 
@@ -28,4 +28,4 @@ Les archives V15 contiennent des rapports de compilation et de tests logiciels p
 
 ## Contenu public
 
-La documentation, les présentations et les plans ne doivent être partagés qu'après contrôle des droits de diffusion. Aucun code source ni firmware n'est destiné à la publication.
+La documentation et les présentations doivent être partagées après contrôle des droits de diffusion. Les plans mécaniques tiers et leurs adaptations ne sont pas inclus. Aucun code source ni firmware n'est destiné à la publication.

@@ -1,11 +1,12 @@
 # Droits de partage et précautions
 
-Le projet **Smash-Makers V15** associe des créations personnelles à des composants et ressources provenant éventuellement de tiers.
+Le projet **Smash-Makers V15** est un projet personnel qui peut employer des composants et des ressources provenant de tiers.
 
-- Certains éléments mécaniques dérivés sont accompagnés d'une notice de licence **GPLv3**. Conserver les attributions et vérifier les obligations applicables, notamment la fourniture des éléments sources correspondants, avant toute redistribution.
-- L'univers **Strange Makers** peut comporter des personnages, références et œuvres protégés. La présence des médias dans une archive privée ne constitue pas une autorisation de diffusion publique.
-- Les musiques et sons utilisés pour les animations doivent être vérifiés individuellement avant publication.
+- Les pièces, plans, documents et animations issus d'une conception mécanique tierce ne sont pas redistribués dans la branche publique actuelle.
+- Les personnes qui contribuent aux ressources publiées conservent leurs droits et les attributions exigées par leurs licences.
+- L'univers **Strange Makers** peut comporter des personnages, références et œuvres protégés ; l'introduction complète n'est pas publiée.
+- Les musiques et sons doivent être vérifiés individuellement avant toute diffusion.
 - Les documents et schémas de fabricants conservent leurs notices de droits et licences.
-- Les comptes rendus de tests logiciels ne remplacent pas la validation physique des cartes, moteurs, guidages et dispositifs de sécurité.
+- Les résultats de tests logiciels ne remplacent pas la validation physique de l'électronique, des moteurs et des dispositifs de sécurité.
 
-**La première publication du dépôt se limite aux documents de présentation dont la diffusion ne soulève pas ces questions de droits.**
+Ce dépôt ne donne aucune autorisation générale de réutilisation d'œuvres de tiers.
