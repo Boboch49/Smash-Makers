@@ -67,6 +67,18 @@ Les trois univers disposent d'animations matricielles distinctes dans la V15. Le
 
 [Regarder la rotation mécanique RD17 — vidéo Web (muette)](media/videos/Smash_Makers_RD17_Cadre_360_web.mp4)
 
+### Galerie mécanique RD17
+
+*Vues issues du dossier V15. Certaines pièces corrigées le 16 novembre n'ont pas encore été réintégrées dans toutes les illustrations ; les fichiers déclarés validés restent la référence.*
+
+![Ponts vissés RD17](media/images/rd17_ponts_vis_v15.jpg)
+
+![Raquette éclatée](media/images/rd17_raquette_eclatee.jpg)
+
+![Balle éclatée](media/images/rd17_balle_eclatee.jpg)
+
+![Ensemble du cadre 860 × 780](media/images/rd17_cadre_860_ensemble.jpg)
+
 ### Fichiers de documentation RD17
 
 - [Notice et historique RD17](mecanique/RD17/LIRE_RD17.txt)
