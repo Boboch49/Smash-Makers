@@ -49,7 +49,11 @@ Une ambiance hockey avec **3 minutes de temps de jeu actif**, engagements, tirs,
 
 Une introduction audiovisuelle d'environ **53,48 secondes**, une horloge et un événement qui provoque une **inversion des commandes pendant 8 secondes**.
 
-Les trois univers disposent d'animations matricielles distinctes dans la V15. **L'animation Strange Makers reste à publier** après vérification des droits liés aux personnages et à la musique.
+![Strange Makers, horloge V15](media/animations/03_strange_makers_horloge_v15.gif)
+
+[Aperçu vidéo de l'horloge sans musique](media/videos/Strange_Makers_Horloge_V15_sans_audio.mp4). Cet extrait ne montre pas l'introduction complète.
+
+Les trois univers disposent d'animations matricielles distinctes dans la V15. Les trois GIF ci-dessus sont disponibles, mais **l'introduction longue de Strange Makers reste volontairement non publiée** (droits sur les personnages et la musique à vérifier).
 
 > 🎞️ Les GIF affichés sont des aperçus des ressources V15, pas des captures filmées d'une matrice physique.
 
@@ -60,6 +64,18 @@ Les trois univers disposent d'animations matricielles distinctes dans la V15. **
 ![Ensemble mécanique RD17](media/images/rd17_ensemble.png)
 
 ![Cadre RD17](media/images/rd17_cadre.png)
+
+[Regarder la rotation mécanique RD17 — vidéo Web (muette)](media/videos/Smash_Makers_RD17_Cadre_360_web.mp4)
+
+### Fichiers de documentation RD17
+
+- [Notice et historique RD17](mecanique/RD17/LIRE_RD17.txt)
+- [Nomenclature des pièces](mecanique/RD17/Nomenclature_RD17.csv)
+- [Visserie](mecanique/RD17/Visserie_reperee_RD17.csv)
+- [Liste de découpe aluminium](mecanique/RD17/Liste_coupe_cadre_860x780.csv)
+- [Pièces validées au 16 novembre 2026](mecanique/RD17/PIECES_VALIDEES_2026-11-16.md)
+- [Modifications et attributions](mecanique/RD17/ATTRIBUTION.md)
+- [Licence originale MechPong (GPLv3 ou ultérieure)](mecanique/RD17/LICENCE_ORIGINALE.txt)
 
 La structure comprend notamment un cadre en profilés aluminium, des courroies GT2, des guidages, des chariots, des supports de moteurs et des pièces imprimables.
 
@@ -82,7 +98,7 @@ Le modèle mécanique **RD17** est la référence actuelle du projet. Certains d
 - [Règles de partage et fichiers exclus](documentation/CONTENU_ET_EXCLUSIONS.md)
 - [Droits et précautions](documentation/DROITS_ET_PRECAUTIONS.md)
 
-Les **aperçus mécaniques et électroniques**, ainsi que les GIF Smash Makers et Smash Hockey, sont en ligne. Les plans STEP/STL complets, vidéos et fichiers de fabrication électronique restent à transférer. Les animations Strange Makers nécessitent une vérification des droits de diffusion.
+Les **trois GIF de démonstration**, des vidéos mécaniques et de l'horloge, les aperçus électroniques, les fichiers de fabrication R5 et les documents RD17 sont en ligne. Les gros plans STEP/STL complets et plusieurs longues vidéos restent à transférer après revue des droits, des exigences GPL et des limites de dépôt.
 
 ## 📐 Fichiers de la carte fille R5
 
