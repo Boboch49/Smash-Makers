@@ -85,11 +85,11 @@ Les trois univers disposent d'animations matricielles distinctes dans la V15. Le
 - [Liste de découpe aluminium](mecanique/RD17/Liste_coupe_cadre_860x780.csv)
 - [Pièces validées au 16 novembre 2026](mecanique/RD17/PIECES_VALIDEES_2026-11-16.md)
 - [Modifications et attributions](mecanique/RD17/ATTRIBUTION.md)
-- [Licence originale MechPong (GPLv3 ou ultérieure)](mecanique/RD17/LICENCE_ORIGINALE.txt)
+- [Notice de licence des éléments mécaniques dérivés](mecanique/RD17/LICENCE_ORIGINALE.txt)
 
 La structure comprend notamment un cadre en profilés aluminium, des courroies GT2, des guidages, des chariots, des supports de moteurs et des pièces imprimables.
 
-Le modèle mécanique **RD17** est la référence actuelle du projet. Certains documents proviennent de l'évolution du modèle **MechPong** : les crédits et conditions de redistribution doivent être conservés.
+Le modèle mécanique **RD17** est la référence actuelle du projet. Les documents techniques, attributions et notices de licence sont conservés dans le dossier mécanique.
 
 ## 🌈 Matrices LED et électronique
 
