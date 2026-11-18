@@ -1,5 +1,7 @@
 # 🎮 Smash-Makers — Parce qu'on n'est jamais trop grand pour jouer !
 
+*Une création personnelle de **Cédric Boboch**.*
+
 **Il paraît qu'en grandissant, on devient sérieux, qu'on range ses jouets et qu'on laisse son imagination d'enfant derrière soi…**
 
 Eh bien, moi, j'ai dû rater cette étape ! 😁
