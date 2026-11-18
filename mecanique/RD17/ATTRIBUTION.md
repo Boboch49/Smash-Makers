@@ -1,9 +1,5 @@
 # Origine et modifications
 
-Les modèles dérivent du STEP fourni par l’utilisateur. L’avis de licence d’origine est conservé dans LICENCE_ORIGINALE.txt.
-
-Adaptation MP-VS01, 3 novembre 2026 : remplacement proposé des cinq guidages MGN par des platines à trois roues V-slot ; interfaces de châssis, supports moteur et renvoi compacts ; dégagements locaux des supports de jeu et du moteur mobile ; sources paramétriques, rendus et rapport de contrôle ajoutés. Ces adaptations et sources sont distribuées sous les mêmes termes GNU GPL version 3 ou ultérieure indiqués par le projet source.
-
 Le dossier est une étude mécanique de prototype ; voir les limites et contrôles dans LIRE_EN_PREMIER.md.
 
 
