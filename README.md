@@ -10,7 +10,7 @@
 
 Smash-Makers mêle la passion du jeu d'arcade, la mécanique motorisée, l'impression 3D, l'électronique et les animations LED. Deux raquettes mobiles, une balle guidée, des moteurs pas à pas et deux matrices RGB transforment une idée de gamin en machine bien réelle.
 
-> 🔒 **Ce dépôt est une vitrine du projet : aucun code source, aucun firmware, aucun fichier de flashage.**
+> 🔓 **Le code source et les firmwares de l'ESP32-S3 sont partagés.** **Le code source, les configurations de compilation et les firmwares de la carte SKR Mini E3 V3 restent privés.**
 >
 > 🧪 **État du projet :** les validations logicielles documentées ne remplacent pas les essais physiques de la V15 complète.
 
@@ -91,13 +91,25 @@ Les premiers fichiers de fabrication sont maintenant en ligne :
 - [Dossier de la carte EXP1 R5](electronique/carte-fille-exp1-r5/)
 - [Archive KiCad/Gerber CMS](electronique/carte-fille-exp1-r5/CARTE_EXP1_R5_KICAD_GERBER_CMS.zip)
 
-Les autres médias et les fichiers STEP/STL de la version mécanique actuelle ne sont pas tous publiés. Aucun firmware ni code source n'est inclus.
+Les autres médias et les fichiers STEP/STL de la version mécanique actuelle ne sont pas tous publiés. **Exception à la confidentialité du code : le dossier ESP32-S3 est public ; tout le programme SKR reste exclu.**
 
-## 🔒 Code et firmware privés
+## 🧠 ESP32-S3 — code source et firmware V15
 
-Ne sont **pas** distribués : programmes Arduino/C/C++/Python, scripts, projets de compilation, binaires `.bin`, `.hex`, `.elf`, `.uf2`, images de flash, clés ou fichiers sensibles.
+**Créateur : Cédric Boboch.** Le programme du contrôleur **Waveshare ESP32-S3 RGB Matrix** gère l'affichage LED HUB75, les animations et la partie audio.
 
-Les ressources graphiques et sonores ne sont pas des firmwares, mais leur publication doit également respecter les droits d'auteur.
+- [Documentation ESP32-S3 et instructions de compilation](ESP32/README.md)
+- [Projet PlatformIO et fichiers source](ESP32/source/)
+- [Télécharger le pack complet ESP32-S3 V15 (sources + firmwares)](ESP32/ESP32_V15_SOURCE_ET_FIRMWARE_SANS_SKR.zip)
+
+Le pack contient le **projet ESP32 complet** (`platformio.ini` et sources C/C++) ainsi que **5 images de flashage ESP32-S3** : `flash_complete.bin`, `firmware.bin`, `bootloader.bin`, `partitions.bin` et `boot_app0.bin`. L'archive est la référence complète pour récupérer toutes les ressources intégrées au code.
+
+**Précaution :** images prévues exclusivement pour la carte ESP32-S3 indiquée dans la documentation. Vérifier la version du matériel et sauvegarder les données avant flashage. La présence d'un firmware ne prouve pas qu'il a été testé sur le matériel réel.
+
+## 🔒 SKR Mini E3 V3 — sources et firmware privés
+
+La **logique de commande mécanique SKR**, tous ses codes sources, ses configurations spécifiques et ses binaires/firmwares **ne sont pas distribués**. Les mentions de SKR dans les sources ESP32 sont uniquement des références à la liaison UART et au protocole de communication : elles ne contiennent pas le programme SKR.
+
+Les ressources audio et graphiques provenant de tiers restent soumises à leurs propres droits, y compris lorsqu'elles sont intégrées dans un fichier source ESP32.
 
 ## ⚖️ Crédits et droits
 
