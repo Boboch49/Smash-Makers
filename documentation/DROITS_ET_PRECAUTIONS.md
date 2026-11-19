@@ -9,5 +9,7 @@ Le projet **Smash-Makers V15** est conçu et développé par **Cédric Boboch**.
 - Les musiques et sons doivent être vérifiés individuellement avant toute diffusion.
 - Les documents et schémas de fabricants conservent leurs notices de droits et licences.
 - Les résultats de tests logiciels ne remplacent pas la validation physique de l'électronique, des moteurs et des dispositifs de sécurité.
+- Les fichiers du [contrôleur ESP32-S3](../ESP32/README.md) (sources et images binaires) sont publiés ; **aucun fichier de programmation ni firmware du contrôleur SKR** n'est inclus.
+- Les ressources multimédias intégrées au programme ESP32 peuvent nécessiter des autorisations distinctes avant redistribution.
 
 Ce dépôt ne donne aucune autorisation générale de réutilisation d'œuvres de tiers.
