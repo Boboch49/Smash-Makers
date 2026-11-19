@@ -8,6 +8,7 @@ Ce dossier est destiné **uniquement à la carte Waveshare ESP32-S3 RGB Matrix**
 
 - `source/` : projet PlatformIO ESP32-S3 avec `platformio.ini` et `src/`, incluant les ressources intégrées aux sources.
 - `firmware/` : fichiers de flashage **ESP32-S3 uniquement** provenant de l'archive V15, pas du contrôleur SKR.
+- [**Pack ZIP complet ESP32-S3 V15 — sources et firmware**](ESP32_V15_SOURCE_ET_FIRMWARE_SANS_SKR.zip) : contient l'intégralité des sources et les 5 binaires flashables ESP32 ; c'est l'archive de référence pour une récupération complète. Si certains gros fichiers ne sont pas encore visibles individuellement dans les dossiers, ils sont bien présents dans ce ZIP.
 
 ## Matériel
 
