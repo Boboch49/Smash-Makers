@@ -98,10 +98,11 @@ Les autres médias et les fichiers STEP/STL de la version mécanique actuelle ne
 **Créateur : Cédric Boboch.** Le programme du contrôleur **Waveshare ESP32-S3 RGB Matrix** gère l'affichage LED HUB75, les animations et la partie audio.
 
 - [Documentation ESP32-S3 et instructions de compilation](ESP32/README.md)
-- [Projet PlatformIO et fichiers source](ESP32/source/)
+- [Projet PlatformIO et fichiers source (46 fichiers)](ESP32/source/)
+- [Firmwares ESP32-S3 disponibles individuellement (5 fichiers)](ESP32/firmware/)
 - [Télécharger le pack complet ESP32-S3 V15 (sources + firmwares)](ESP32/ESP32_V15_SOURCE_ET_FIRMWARE_SANS_SKR.zip)
 
-Le pack contient le **projet ESP32 complet** (`platformio.ini` et sources C/C++) ainsi que **5 images de flashage ESP32-S3** : `flash_complete.bin`, `firmware.bin`, `bootloader.bin`, `partitions.bin` et `boot_app0.bin`. L'archive est la référence complète pour récupérer toutes les ressources intégrées au code.
+Le pack contient le **projet ESP32 complet** (`platformio.ini` et sources C/C++) ainsi que **5 images de flashage ESP32-S3** : `flash_complete.bin`, `firmware.bin`, `bootloader.bin`, `partitions.bin` et `boot_app0.bin`. Les sources et les cinq images binaires sont aussi disponibles séparément dans les dossiers ci-dessus.
 
 **Précaution :** images prévues exclusivement pour la carte ESP32-S3 indiquée dans la documentation. Vérifier la version du matériel et sauvegarder les données avant flashage. La présence d'un firmware ne prouve pas qu'il a été testé sur le matériel réel.
 
