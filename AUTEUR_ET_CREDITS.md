@@ -20,4 +20,6 @@ Concernant la mécanique actuelle, **Cédric Boboch précise avoir repris et red
 
 Tous droits réservés sur les créations originales de l'auteur, sauf indication contraire. Les éléments externes (matériels, marques, musiques, personnages ou éventuelles ressources protégées) conservent leurs droits propres.
 
-**Ce dépôt public ne contient volontairement aucun code source ni firmware.**
+**Le code source et le firmware du contrôleur ESP32-S3 sont publics. Le code source, les configurations spécifiques et les firmwares SKR restent privés.**
+
+[Documentation ESP32-S3](ESP32/README.md) · [Pack complet ESP32 V15](ESP32/ESP32_V15_SOURCE_ET_FIRMWARE_SANS_SKR.zip)
