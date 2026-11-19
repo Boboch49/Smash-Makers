@@ -1,14 +1,28 @@
-# Aucun code source, firmware ou contenu sensible
+# Smash-Makers V15 — politique de publication
+#
+# ESP32-S3 : sources PlatformIO et firmwares explicitement autorisés.
+# SKR Mini E3 V3 : code source, configurations et firmwares STRICTEMENT PRIVÉS.
+#
+# ATTENTION : .gitignore n'empêche pas la publication de fichiers déjà suivis.
+
+# Répertoires privés de commande mécanique
+**/SKR/
+**/skr/
+**/SKR_JEU/
+**/skr_jeu/
+**/SKR_SOURCE/
+**/SKR_FIRMWARE/
+**/*SKR*.hex
+**/*SKR*.bin
+**/*SKR*.elf
+**/*SKR*.uf2
+
+# Sources et binaires : ignorés par défaut hors dérogation ESP32
 **/src/
 **/SOURCES/
 **/sources/
 **/firmware/
 **/FIRMWARE/
-**/build/
-**/Build/
-**/.pio/
-**/.vscode/
-**/.idea/
 *.ino
 *.c
 *.cc
@@ -44,9 +58,29 @@
 *.msi
 *.dll
 *.so
+
+# Dérogation précise pour la publication du projet ESP32-S3
+!ESP32/
+!ESP32/source/
+!ESP32/source/src/
+!ESP32/source/platformio.ini
+!ESP32/source/src/*.h
+!ESP32/source/src/*.hpp
+!ESP32/source/src/*.c
+!ESP32/source/src/*.cpp
+!ESP32/firmware/
+!ESP32/firmware/*.bin
+
+# Sorties générées, IDE et fichiers sensibles : toujours exclus
+**/build/
+**/Build/
+**/.pio/
+**/.vscode/
+**/.idea/
 .env
 .env.*
 *.pem
 *.key
 *.p12
 *.pfx
+*.secret
